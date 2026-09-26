@@ -1,0 +1,730 @@
+{
+  "audit_trail": [
+    {
+      "scenario_id": "P1",
+      "account_id": "ACC-7801",
+      "company_name": "JSC\nКОНФИДЕНЦИАЛЬНО",
+      "clause_number": "6.1",
+      "metric_name": "GENERIC",
+      "operator": "<=",
+      "threshold": 0.0,
+      "status": "COMPLIANT",
+      "actual": 0.0,
+      "evidence_txn_id": null,
+      "source_doc": "8d878af064f2.pdf",
+      "auditor_exclusions": [
+        "TXN-P1-0045"
+      ],
+      "auditor_addbacks": 0.0,
+      "kyc_related_entities": [
+        "Aktau Holdings LLP"
+      ],
+      "txns_evaluated_count": 55,
+      "evidence_explanation": "Aggregate/ratio test or no single transaction flips verdict."
+    },
+    {
+      "scenario_id": "P1",
+      "account_id": "ACC-7801",
+      "company_name": "JSC\nКОНФИДЕНЦИАЛЬНО",
+      "clause_number": "6.2",
+      "metric_name": "GENERIC",
+      "operator": "<=",
+      "threshold": 0.0,
+      "status": "COMPLIANT",
+      "actual": 0.0,
+      "evidence_txn_id": null,
+      "source_doc": "8d878af064f2.pdf",
+      "auditor_exclusions": [
+        "TXN-P1-0045"
+      ],
+      "auditor_addbacks": 0.0,
+      "kyc_related_entities": [
+        "Aktau Holdings LLP"
+      ],
+      "txns_evaluated_count": 55,
+      "evidence_explanation": "Aggregate/ratio test or no single transaction flips verdict."
+    },
+    {
+      "scenario_id": "P1",
+      "account_id": "ACC-7801",
+      "company_name": "JSC\nКОНФИДЕНЦИАЛЬНО",
+      "clause_number": "6.3",
+      "metric_name": "GENERIC",
+      "operator": "<=",
+      "threshold": 0.0,
+      "status": "COMPLIANT",
+      "actual": 0.0,
+      "evidence_txn_id": null,
+      "source_doc": "8d878af064f2.pdf",
+      "auditor_exclusions": [
+        "TXN-P1-0045"
+      ],
+      "auditor_addbacks": 0.0,
+      "kyc_related_entities": [
+        "Aktau Holdings LLP"
+      ],
+      "txns_evaluated_count": 55,
+      "evidence_explanation": "Aggregate/ratio test or no single transaction flips verdict."
+    },
+    {
+      "scenario_id": "P2",
+      "account_id": "ACC-7802",
+      "company_name": "JSC\nКОНФИДЕНЦИАЛЬНО",
+      "clause_number": "6.1",
+      "metric_name": "GENERIC",
+      "operator": "<=",
+      "threshold": 0.0,
+      "status": "COMPLIANT",
+      "actual": 0.0,
+      "evidence_txn_id": null,
+      "source_doc": "b2519c8e3ea4.pdf",
+      "auditor_exclusions": [],
+      "auditor_addbacks": 0.0,
+      "kyc_related_entities": [],
+      "txns_evaluated_count": 56,
+      "evidence_explanation": "Aggregate/ratio test or no single transaction flips verdict."
+    },
+    {
+      "scenario_id": "P2",
+      "account_id": "ACC-7802",
+      "company_name": "JSC\nКОНФИДЕНЦИАЛЬНО",
+      "clause_number": "6.2",
+      "metric_name": "GENERIC",
+      "operator": "<=",
+      "threshold": 0.0,
+      "status": "COMPLIANT",
+      "actual": 0.0,
+      "evidence_txn_id": null,
+      "source_doc": "b2519c8e3ea4.pdf",
+      "auditor_exclusions": [],
+      "auditor_addbacks": 0.0,
+      "kyc_related_entities": [],
+      "txns_evaluated_count": 56,
+      "evidence_explanation": "Aggregate/ratio test or no single transaction flips verdict."
+    },
+    {
+      "scenario_id": "P2",
+      "account_id": "ACC-7802",
+      "company_name": "JSC\nКОНФИДЕНЦИАЛЬНО",
+      "clause_number": "6.3",
+      "metric_name": "GENERIC",
+      "operator": "<=",
+      "threshold": 0.0,
+      "status": "COMPLIANT",
+      "actual": 0.0,
+      "evidence_txn_id": null,
+      "source_doc": "b2519c8e3ea4.pdf",
+      "auditor_exclusions": [],
+      "auditor_addbacks": 0.0,
+      "kyc_related_entities": [],
+      "txns_evaluated_count": 56,
+      "evidence_explanation": "Aggregate/ratio test or no single transaction flips verdict."
+    },
+    {
+      "scenario_id": "P3",
+      "account_id": "ACC-7803",
+      "company_name": "JSC\nКОНФИДЕНЦИАЛЬНО",
+      "clause_number": "6.1",
+      "metric_name": "GENERIC",
+      "operator": "<=",
+      "threshold": 0.0,
+      "status": "COMPLIANT",
+      "actual": 0.0,
+      "evidence_txn_id": null,
+      "source_doc": "85afaaca89ad.pdf",
+      "auditor_exclusions": [
+        "TXN-P1-0045"
+      ],
+      "auditor_addbacks": 0.0,
+      "kyc_related_entities": [
+        "Shymkent Plant Services LLP"
+      ],
+      "txns_evaluated_count": 55,
+      "evidence_explanation": "Aggregate/ratio test or no single transaction flips verdict."
+    },
+    {
+      "scenario_id": "P3",
+      "account_id": "ACC-7803",
+      "company_name": "JSC\nКОНФИДЕНЦИАЛЬНО",
+      "clause_number": "6.2",
+      "metric_name": "GENERIC",
+      "operator": "<=",
+      "threshold": 0.0,
+      "status": "COMPLIANT",
+      "actual": 0.0,
+      "evidence_txn_id": null,
+      "source_doc": "85afaaca89ad.pdf",
+      "auditor_exclusions": [
+        "TXN-P1-0045"
+      ],
+      "auditor_addbacks": 0.0,
+      "kyc_related_entities": [
+        "Shymkent Plant Services LLP"
+      ],
+      "txns_evaluated_count": 55,
+      "evidence_explanation": "Aggregate/ratio test or no single transaction flips verdict."
+    },
+    {
+      "scenario_id": "P3",
+      "account_id": "ACC-7803",
+      "company_name": "JSC\nКОНФИДЕНЦИАЛЬНО",
+      "clause_number": "6.3",
+      "metric_name": "GENERIC",
+      "operator": "<=",
+      "threshold": 0.0,
+      "status": "COMPLIANT",
+      "actual": 0.0,
+      "evidence_txn_id": null,
+      "source_doc": "85afaaca89ad.pdf",
+      "auditor_exclusions": [
+        "TXN-P1-0045"
+      ],
+      "auditor_addbacks": 0.0,
+      "kyc_related_entities": [
+        "Shymkent Plant Services LLP"
+      ],
+      "txns_evaluated_count": 55,
+      "evidence_explanation": "Aggregate/ratio test or no single transaction flips verdict."
+    },
+    {
+      "scenario_id": "P4",
+      "account_id": "ACC-7804",
+      "company_name": "JSC\nКОНФИДЕНЦИАЛЬНО",
+      "clause_number": "6.1",
+      "metric_name": "GENERIC",
+      "operator": "<=",
+      "threshold": 0.0,
+      "status": "COMPLIANT",
+      "actual": 0.0,
+      "evidence_txn_id": null,
+      "source_doc": "3a4aa2dbd6c4.pdf",
+      "auditor_exclusions": [],
+      "auditor_addbacks": 0.0,
+      "kyc_related_entities": [
+        "Aral Capital Partners, LLP"
+      ],
+      "txns_evaluated_count": 57,
+      "evidence_explanation": "Aggregate/ratio test or no single transaction flips verdict."
+    },
+    {
+      "scenario_id": "P4",
+      "account_id": "ACC-7804",
+      "company_name": "JSC\nКОНФИДЕНЦИАЛЬНО",
+      "clause_number": "6.2",
+      "metric_name": "GENERIC",
+      "operator": "<=",
+      "threshold": 0.0,
+      "status": "COMPLIANT",
+      "actual": 0.0,
+      "evidence_txn_id": null,
+      "source_doc": "3a4aa2dbd6c4.pdf",
+      "auditor_exclusions": [],
+      "auditor_addbacks": 0.0,
+      "kyc_related_entities": [
+        "Aral Capital Partners, LLP"
+      ],
+      "txns_evaluated_count": 57,
+      "evidence_explanation": "Aggregate/ratio test or no single transaction flips verdict."
+    },
+    {
+      "scenario_id": "P4",
+      "account_id": "ACC-7804",
+      "company_name": "JSC\nКОНФИДЕНЦИАЛЬНО",
+      "clause_number": "6.3",
+      "metric_name": "GENERIC",
+      "operator": "<=",
+      "threshold": 0.0,
+      "status": "COMPLIANT",
+      "actual": 0.0,
+      "evidence_txn_id": null,
+      "source_doc": "3a4aa2dbd6c4.pdf",
+      "auditor_exclusions": [],
+      "auditor_addbacks": 0.0,
+      "kyc_related_entities": [
+        "Aral Capital Partners, LLP"
+      ],
+      "txns_evaluated_count": 57,
+      "evidence_explanation": "Aggregate/ratio test or no single transaction flips verdict."
+    },
+    {
+      "scenario_id": "P5",
+      "account_id": "ACC-7805",
+      "company_name": "JSC\nКОНФИДЕНЦИАЛЬНО",
+      "clause_number": "6.1",
+      "metric_name": "GENERIC",
+      "operator": "<=",
+      "threshold": 0.0,
+      "status": "COMPLIANT",
+      "actual": 0.0,
+      "evidence_txn_id": null,
+      "source_doc": "1d262694c308.pdf",
+      "auditor_exclusions": [],
+      "auditor_addbacks": 0.0,
+      "kyc_related_entities": [
+        "Sarybel Capital LLP"
+      ],
+      "txns_evaluated_count": 54,
+      "evidence_explanation": "Aggregate/ratio test or no single transaction flips verdict."
+    },
+    {
+      "scenario_id": "P5",
+      "account_id": "ACC-7805",
+      "company_name": "JSC\nКОНФИДЕНЦИАЛЬНО",
+      "clause_number": "6.2",
+      "metric_name": "GENERIC",
+      "operator": "<=",
+      "threshold": 0.0,
+      "status": "COMPLIANT",
+      "actual": 0.0,
+      "evidence_txn_id": null,
+      "source_doc": "1d262694c308.pdf",
+      "auditor_exclusions": [],
+      "auditor_addbacks": 0.0,
+      "kyc_related_entities": [
+        "Sarybel Capital LLP"
+      ],
+      "txns_evaluated_count": 54,
+      "evidence_explanation": "Aggregate/ratio test or no single transaction flips verdict."
+    },
+    {
+      "scenario_id": "P5",
+      "account_id": "ACC-7805",
+      "company_name": "JSC\nКОНФИДЕНЦИАЛЬНО",
+      "clause_number": "6.3",
+      "metric_name": "GENERIC",
+      "operator": "<=",
+      "threshold": 0.0,
+      "status": "COMPLIANT",
+      "actual": 0.0,
+      "evidence_txn_id": null,
+      "source_doc": "1d262694c308.pdf",
+      "auditor_exclusions": [],
+      "auditor_addbacks": 0.0,
+      "kyc_related_entities": [
+        "Sarybel Capital LLP"
+      ],
+      "txns_evaluated_count": 54,
+      "evidence_explanation": "Aggregate/ratio test or no single transaction flips verdict."
+    },
+    {
+      "scenario_id": "P6",
+      "account_id": "ACC-7806",
+      "company_name": "JSC\nКОНФИДЕНЦИАЛЬНО",
+      "clause_number": "6.1",
+      "metric_name": "GENERIC",
+      "operator": "<=",
+      "threshold": 0.0,
+      "status": "COMPLIANT",
+      "actual": 0.0,
+      "evidence_txn_id": null,
+      "source_doc": "be7c1bba8940.pdf",
+      "auditor_exclusions": [],
+      "auditor_addbacks": 0.0,
+      "kyc_related_entities": [],
+      "txns_evaluated_count": 56,
+      "evidence_explanation": "Aggregate/ratio test or no single transaction flips verdict."
+    },
+    {
+      "scenario_id": "P6",
+      "account_id": "ACC-7806",
+      "company_name": "JSC\nКОНФИДЕНЦИАЛЬНО",
+      "clause_number": "6.2",
+      "metric_name": "GENERIC",
+      "operator": "<=",
+      "threshold": 0.0,
+      "status": "COMPLIANT",
+      "actual": 0.0,
+      "evidence_txn_id": null,
+      "source_doc": "be7c1bba8940.pdf",
+      "auditor_exclusions": [],
+      "auditor_addbacks": 0.0,
+      "kyc_related_entities": [],
+      "txns_evaluated_count": 56,
+      "evidence_explanation": "Aggregate/ratio test or no single transaction flips verdict."
+    },
+    {
+      "scenario_id": "P6",
+      "account_id": "ACC-7806",
+      "company_name": "JSC\nКОНФИДЕНЦИАЛЬНО",
+      "clause_number": "6.3",
+      "metric_name": "GENERIC",
+      "operator": "<=",
+      "threshold": 0.0,
+      "status": "COMPLIANT",
+      "actual": 0.0,
+      "evidence_txn_id": null,
+      "source_doc": "be7c1bba8940.pdf",
+      "auditor_exclusions": [],
+      "auditor_addbacks": 0.0,
+      "kyc_related_entities": [],
+      "txns_evaluated_count": 56,
+      "evidence_explanation": "Aggregate/ratio test or no single transaction flips verdict."
+    },
+    {
+      "scenario_id": "P7",
+      "account_id": "ACC-7807",
+      "company_name": "JSC\nКОНФИДЕНЦИА ЛЬНО",
+      "clause_number": "6.1",
+      "metric_name": "GENERIC",
+      "operator": "<=",
+      "threshold": 0.0,
+      "status": "COMPLIANT",
+      "actual": 0.0,
+      "evidence_txn_id": null,
+      "source_doc": "6acb5bbc3e70.pdf",
+      "auditor_exclusions": [],
+      "auditor_addbacks": 0.0,
+      "kyc_related_entities": [
+        "Atyrau Holding Group L.L.P."
+      ],
+      "txns_evaluated_count": 56,
+      "evidence_explanation": "Aggregate/ratio test or no single transaction flips verdict."
+    },
+    {
+      "scenario_id": "P7",
+      "account_id": "ACC-7807",
+      "company_name": "JSC\nКОНФИДЕНЦИА ЛЬНО",
+      "clause_number": "6.2",
+      "metric_name": "GENERIC",
+      "operator": "<=",
+      "threshold": 0.0,
+      "status": "COMPLIANT",
+      "actual": 0.0,
+      "evidence_txn_id": null,
+      "source_doc": "6acb5bbc3e70.pdf",
+      "auditor_exclusions": [],
+      "auditor_addbacks": 0.0,
+      "kyc_related_entities": [
+        "Atyrau Holding Group L.L.P."
+      ],
+      "txns_evaluated_count": 56,
+      "evidence_explanation": "Aggregate/ratio test or no single transaction flips verdict."
+    },
+    {
+      "scenario_id": "P7",
+      "account_id": "ACC-7807",
+      "company_name": "JSC\nКОНФИДЕНЦИА ЛЬНО",
+      "clause_number": "6.3",
+      "metric_name": "GENERIC",
+      "operator": "<=",
+      "threshold": 0.0,
+      "status": "COMPLIANT",
+      "actual": 0.0,
+      "evidence_txn_id": null,
+      "source_doc": "6acb5bbc3e70.pdf",
+      "auditor_exclusions": [],
+      "auditor_addbacks": 0.0,
+      "kyc_related_entities": [
+        "Atyrau Holding Group L.L.P."
+      ],
+      "txns_evaluated_count": 56,
+      "evidence_explanation": "Aggregate/ratio test or no single transaction flips verdict."
+    },
+    {
+      "scenario_id": "P8",
+      "account_id": "ACC-7808",
+      "company_name": "JSC\nКОНФИДЕНЦИА ЛЬНО",
+      "clause_number": "6.1",
+      "metric_name": "GENERIC",
+      "operator": "<=",
+      "threshold": 0.0,
+      "status": "COMPLIANT",
+      "actual": 0.0,
+      "evidence_txn_id": null,
+      "source_doc": "61dfc54675dc.pdf",
+      "auditor_exclusions": [
+        "TXN-P8-0016"
+      ],
+      "auditor_addbacks": 0.0,
+      "kyc_related_entities": [
+        "Syrdarya Capital Holding, LLP"
+      ],
+      "txns_evaluated_count": 54,
+      "evidence_explanation": "Aggregate/ratio test or no single transaction flips verdict."
+    },
+    {
+      "scenario_id": "P8",
+      "account_id": "ACC-7808",
+      "company_name": "JSC\nКОНФИДЕНЦИА ЛЬНО",
+      "clause_number": "6.2",
+      "metric_name": "GENERIC",
+      "operator": "<=",
+      "threshold": 0.0,
+      "status": "COMPLIANT",
+      "actual": 0.0,
+      "evidence_txn_id": null,
+      "source_doc": "61dfc54675dc.pdf",
+      "auditor_exclusions": [
+        "TXN-P8-0016"
+      ],
+      "auditor_addbacks": 0.0,
+      "kyc_related_entities": [
+        "Syrdarya Capital Holding, LLP"
+      ],
+      "txns_evaluated_count": 54,
+      "evidence_explanation": "Aggregate/ratio test or no single transaction flips verdict."
+    },
+    {
+      "scenario_id": "P8",
+      "account_id": "ACC-7808",
+      "company_name": "JSC\nКОНФИДЕНЦИА ЛЬНО",
+      "clause_number": "6.3",
+      "metric_name": "GENERIC",
+      "operator": "<=",
+      "threshold": 0.0,
+      "status": "COMPLIANT",
+      "actual": 0.0,
+      "evidence_txn_id": null,
+      "source_doc": "61dfc54675dc.pdf",
+      "auditor_exclusions": [
+        "TXN-P8-0016"
+      ],
+      "auditor_addbacks": 0.0,
+      "kyc_related_entities": [
+        "Syrdarya Capital Holding, LLP"
+      ],
+      "txns_evaluated_count": 54,
+      "evidence_explanation": "Aggregate/ratio test or no single transaction flips verdict."
+    },
+    {
+      "scenario_id": "P9",
+      "account_id": "ACC-7809",
+      "company_name": "JSC\nКОНФИДЕНЦИАЛЬНО",
+      "clause_number": "6.1",
+      "metric_name": "GENERIC",
+      "operator": "<=",
+      "threshold": 0.0,
+      "status": "COMPLIANT",
+      "actual": 0.0,
+      "evidence_txn_id": null,
+      "source_doc": "c2c9382c9168.pdf",
+      "auditor_exclusions": [],
+      "auditor_addbacks": 0.0,
+      "kyc_related_entities": [
+        "Ulytau Capital LLP."
+      ],
+      "txns_evaluated_count": 55,
+      "evidence_explanation": "Aggregate/ratio test or no single transaction flips verdict."
+    },
+    {
+      "scenario_id": "P9",
+      "account_id": "ACC-7809",
+      "company_name": "JSC\nКОНФИДЕНЦИАЛЬНО",
+      "clause_number": "6.2",
+      "metric_name": "GENERIC",
+      "operator": "<=",
+      "threshold": 0.0,
+      "status": "COMPLIANT",
+      "actual": 0.0,
+      "evidence_txn_id": null,
+      "source_doc": "c2c9382c9168.pdf",
+      "auditor_exclusions": [],
+      "auditor_addbacks": 0.0,
+      "kyc_related_entities": [
+        "Ulytau Capital LLP."
+      ],
+      "txns_evaluated_count": 55,
+      "evidence_explanation": "Aggregate/ratio test or no single transaction flips verdict."
+    },
+    {
+      "scenario_id": "P9",
+      "account_id": "ACC-7809",
+      "company_name": "JSC\nКОНФИДЕНЦИАЛЬНО",
+      "clause_number": "6.3",
+      "metric_name": "GENERIC",
+      "operator": "<=",
+      "threshold": 0.0,
+      "status": "COMPLIANT",
+      "actual": 0.0,
+      "evidence_txn_id": null,
+      "source_doc": "c2c9382c9168.pdf",
+      "auditor_exclusions": [],
+      "auditor_addbacks": 0.0,
+      "kyc_related_entities": [
+        "Ulytau Capital LLP."
+      ],
+      "txns_evaluated_count": 55,
+      "evidence_explanation": "Aggregate/ratio test or no single transaction flips verdict."
+    },
+    {
+      "scenario_id": "P10",
+      "account_id": "ACC-7810",
+      "company_name": "JSC\nКОНФИДЕНЦИАЛЬНО",
+      "clause_number": "6.1",
+      "metric_name": "GENERIC",
+      "operator": "<=",
+      "threshold": 0.0,
+      "status": "COMPLIANT",
+      "actual": 0.0,
+      "evidence_txn_id": null,
+      "source_doc": "ba475cfc33a4.pdf",
+      "auditor_exclusions": [],
+      "auditor_addbacks": 0.0,
+      "kyc_related_entities": [],
+      "txns_evaluated_count": 59,
+      "evidence_explanation": "Aggregate/ratio test or no single transaction flips verdict."
+    },
+    {
+      "scenario_id": "P10",
+      "account_id": "ACC-7810",
+      "company_name": "JSC\nКОНФИДЕНЦИАЛЬНО",
+      "clause_number": "6.2",
+      "metric_name": "GENERIC",
+      "operator": "<=",
+      "threshold": 0.0,
+      "status": "COMPLIANT",
+      "actual": 0.0,
+      "evidence_txn_id": null,
+      "source_doc": "ba475cfc33a4.pdf",
+      "auditor_exclusions": [],
+      "auditor_addbacks": 0.0,
+      "kyc_related_entities": [],
+      "txns_evaluated_count": 59,
+      "evidence_explanation": "Aggregate/ratio test or no single transaction flips verdict."
+    },
+    {
+      "scenario_id": "P10",
+      "account_id": "ACC-7810",
+      "company_name": "JSC\nКОНФИДЕНЦИАЛЬНО",
+      "clause_number": "6.3",
+      "metric_name": "GENERIC",
+      "operator": "<=",
+      "threshold": 0.0,
+      "status": "COMPLIANT",
+      "actual": 0.0,
+      "evidence_txn_id": null,
+      "source_doc": "ba475cfc33a4.pdf",
+      "auditor_exclusions": [],
+      "auditor_addbacks": 0.0,
+      "kyc_related_entities": [],
+      "txns_evaluated_count": 59,
+      "evidence_explanation": "Aggregate/ratio test or no single transaction flips verdict."
+    },
+    {
+      "scenario_id": "B1",
+      "account_id": "ACC-7201",
+      "company_name": "JSC\nКОНФИДЕНЦИАЛЬНО",
+      "clause_number": "6.1",
+      "metric_name": "GENERIC",
+      "operator": "<=",
+      "threshold": 0.0,
+      "status": "COMPLIANT",
+      "actual": 0.0,
+      "evidence_txn_id": null,
+      "source_doc": "b38facf69a94.pdf",
+      "auditor_exclusions": [
+        "TXN-B1-0023"
+      ],
+      "auditor_addbacks": 0.0,
+      "kyc_related_entities": [
+        "Ertis Capital, LLP"
+      ],
+      "txns_evaluated_count": 56,
+      "evidence_explanation": "Aggregate/ratio test or no single transaction flips verdict."
+    },
+    {
+      "scenario_id": "B1",
+      "account_id": "ACC-7201",
+      "company_name": "JSC\nКОНФИДЕНЦИАЛЬНО",
+      "clause_number": "6.2",
+      "metric_name": "GENERIC",
+      "operator": "<=",
+      "threshold": 0.0,
+      "status": "COMPLIANT",
+      "actual": 0.0,
+      "evidence_txn_id": null,
+      "source_doc": "b38facf69a94.pdf",
+      "auditor_exclusions": [
+        "TXN-B1-0023"
+      ],
+      "auditor_addbacks": 0.0,
+      "kyc_related_entities": [
+        "Ertis Capital, LLP"
+      ],
+      "txns_evaluated_count": 56,
+      "evidence_explanation": "Aggregate/ratio test or no single transaction flips verdict."
+    },
+    {
+      "scenario_id": "B1",
+      "account_id": "ACC-7201",
+      "company_name": "JSC\nКОНФИДЕНЦИАЛЬНО",
+      "clause_number": "6.3",
+      "metric_name": "GENERIC",
+      "operator": "<=",
+      "threshold": 0.0,
+      "status": "COMPLIANT",
+      "actual": 0.0,
+      "evidence_txn_id": null,
+      "source_doc": "b38facf69a94.pdf",
+      "auditor_exclusions": [
+        "TXN-B1-0023"
+      ],
+      "auditor_addbacks": 0.0,
+      "kyc_related_entities": [
+        "Ertis Capital, LLP"
+      ],
+      "txns_evaluated_count": 56,
+      "evidence_explanation": "Aggregate/ratio test or no single transaction flips verdict."
+    },
+    {
+      "scenario_id": "B4",
+      "account_id": "ACC-7204",
+      "company_name": "JSC\nКОНФИДЕНЦИАЛЬНО",
+      "clause_number": "6.1",
+      "metric_name": "GENERIC",
+      "operator": "<=",
+      "threshold": 0.0,
+      "status": "COMPLIANT",
+      "actual": 0.0,
+      "evidence_txn_id": null,
+      "source_doc": "bc5451f75caf.pdf",
+      "auditor_exclusions": [
+        "TXN-B4-0026"
+      ],
+      "auditor_addbacks": 0.0,
+      "kyc_related_entities": [],
+      "txns_evaluated_count": 56,
+      "evidence_explanation": "Aggregate/ratio test or no single transaction flips verdict."
+    },
+    {
+      "scenario_id": "B4",
+      "account_id": "ACC-7204",
+      "company_name": "JSC\nКОНФИДЕНЦИАЛЬНО",
+      "clause_number": "6.2",
+      "metric_name": "GENERIC",
+      "operator": "<=",
+      "threshold": 0.0,
+      "status": "COMPLIANT",
+      "actual": 0.0,
+      "evidence_txn_id": null,
+      "source_doc": "bc5451f75caf.pdf",
+      "auditor_exclusions": [
+        "TXN-B4-0026"
+      ],
+      "auditor_addbacks": 0.0,
+      "kyc_related_entities": [],
+      "txns_evaluated_count": 56,
+      "evidence_explanation": "Aggregate/ratio test or no single transaction flips verdict."
+    },
+    {
+      "scenario_id": "B4",
+      "account_id": "ACC-7204",
+      "company_name": "JSC\nКОНФИДЕНЦИАЛЬНО",
+      "clause_number": "6.3",
+      "metric_name": "GENERIC",
+      "operator": "<=",
+      "threshold": 0.0,
+      "status": "COMPLIANT",
+      "actual": 0.0,
+      "evidence_txn_id": null,
+      "source_doc": "bc5451f75caf.pdf",
+      "auditor_exclusions": [
+        "TXN-B4-0026"
+      ],
+      "auditor_addbacks": 0.0,
+      "kyc_related_entities": [],
+      "txns_evaluated_count": 56,
+      "evidence_explanation": "Aggregate/ratio test or no single transaction flips verdict."
+    }
+  ]
+}
